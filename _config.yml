@@ -39,4 +39,6 @@ theme: minima
 #   - vendor/gems/
 #   - vendor/ruby/
 
+include: ["_next", "_*.js"]
+
 google_analytics: G-1B3Y7VTC45
